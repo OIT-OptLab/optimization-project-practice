@@ -1,5 +1,5 @@
 {
-    "experiment_name":"hill_climbing_start_1",
+    "experiment_name":"hill_climbing",
     "seed":0,
     "max_iterations":100,
     "initial_x":-4.0,
